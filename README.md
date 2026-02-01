@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Krupa Savaliya</h1>
+<h3 align="center">Full Stack Developer | MCA Graduate</h3>
 
-<!--
-**krupasavaliya24/krupasavaliya24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+💻 Full Stack Developer with hands-on experience in building web applications, REST APIs, and automation tools.  
+🚀 Strong in backend development, frontend UI, and API integration.  
+🎓 MCA Graduate from LJ University (CGPA: 8/10).  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👩‍💻 Experience
+**Trainee Full Stack Developer – DevAngles**  
+📅 Feb 2025 – Aug 2025  
+
+- Worked on full stack development using **FastAPI, React.js, Firestore**
+- Built REST APIs and integrated **Google Calendar & Drive APIs**
+- Designed responsive UIs using **React & Material UI**
+- Automated workflows using **Google Apps Script**
+
+---
+
+### 🛠️ Skills
+- **Frontend:** React.js, HTML, CSS, JavaScript
+- **Backend:** FastAPI, Flask, ASP.NET MVC, PHP
+- **Languages:** C, C++, C#, Java, Python
+- **Database:** MySQL, SQL Server, Firestore
+- **Tools:** Git, GitHub, Google APIs
+
+---
+
+### 📌 Academic Projects
+- 🍼 Baby Care System – ASP.NET, SQL Server  
+- 🐾 Pet Management System – C#  
+- 🏠 Home Service Booking System – ASP.NET MVC  
+
+---
+
+### 📫 Contact
+- 📧 Email: krupasavaliya24@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/krupa-savaliya/
